@@ -17,4 +17,4 @@ jobs:
           fetch-depth: 0
 
       - name: Push main to front-end-project
-        run: git push origin HEAD:front-end-project
+        run: git push origin HEAD:front-end-project --force
