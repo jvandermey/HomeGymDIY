@@ -17,6 +17,7 @@ Custom utility accessories for racks, benches, and cable systems.
 - [Ryan – Titan Roller J-Cup Protectors](#ryan--titan-roller-j-cup-protectors)
 - [Ryan – Rogue Monster Safety Spotter Lip Protector](#ryan--rogue-monster-safety-spotter-lip-protector)
 - [Rogue Black Oxide Bolts (Anand)](#rogue-black-oxide-bolts-anand)
+- [JW – Spot Grips Reppin Mod Template](#JW--spot-grips-reppin-mod-template)
 
 ---
 
@@ -205,3 +206,36 @@ Design by Ryan (markofzen)
 ### 📝 Notes
 
 These links are for the black oxide versions of the hardware.
+
+---
+
+## JW – Spot Grips Reppin Mod Template
+
+![Spot Grips in Use with Reppins](https://github.com/user-attachments/assets/6fb1c7f0-3e6c-43cc-b271-58f17de758d6)
+
+![Template Overlaid on Spot Grips](https://github.com/user-attachments/assets/0554da51-6ef1-444f-ae92-e00622b90898)
+
+![Template Next to Spot Grips](https://github.com/user-attachments/assets/0a5c8dcb-d20e-446f-a3dd-a0c7bb08bf46)
+
+### 📁 Files
+
+- [Spot Grips Reppin Mod Cutting Template (pdf)](https://github.com/user-attachments/files/26027383/Spot_Grips_Reppin_Mod_Cutting_Template.pdf)
+
+### 📝 Notes
+
+- Print the template at 100% scale and confirm the scale with a measuring tape in inches
+- Cut out the template and affix to one of the sides of the Spot Grips as shown - trace with a silver sharpie
+- Cut with the equipment listed below: 
+-   -Jigsaw with a thick metal Bosch blade (or similar)
+-   -Tap magic (or similar) cutting fluid
+-   -Work surface and clamps
+-   -Personal protective equipment - be safe!
+  
+  Note: it’s likely best to leave more material and you can shave it down later as you test the fit with your dumbbells
+
+
+### 📝 Credits
+
+- Design by JW
+- Credit to LzrJ who took his Spot Grips to a local fab to have his cut for his Pepin Fast Adjustables, and who shared measurements of his Spot Grips after
+
