@@ -157,7 +157,7 @@ Design by Ryan
 ### 🔧 Specifications
 
 - 4.7 mm steel plate in SendCutSend (SCS) (Stainless is fine, but recommend tumble/deburring)
-- 10 mm bolts for each corner
+- M8 bolts for each corner
 - M8 flange bolts for padding threaded to backplate
 
 ### 📝 Credits
